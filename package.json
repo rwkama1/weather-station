@@ -1,0 +1,15 @@
+{
+  "name": "weather-station",
+  "version": "1.0.0",
+  "description": "A weather station provides a couple of daily temperatures (one representation the maximum temperature and the other the minimum temperature), temperatures cannot occur in nine (9) degrees, neither in the maximum, nor in the minimum, nor in both (it would be a error), the end of data is the sentinel value (maximum and minimum temperature in zero degrees). Obtain the average of the maximum and minimum temperatures, the percentage of error and the number of temperatures entered as valid temperatures.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/weather-station"
+  },
+  "keywords": ["js","javascript","weather","temperature","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
